@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: spring-boot-rxjava2
+
+server:
+  port: 8801
+
+springfox:
+  documentation:
+    swagger:
+      v2:
+        path: /api-docs
